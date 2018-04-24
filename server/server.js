@@ -1,4 +1,4 @@
-var express = require('expresss');
+var express = require('express');
 var sock = require('socket.io');
 
 var app = express();
